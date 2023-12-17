@@ -1,4 +1,4 @@
-# pipespray
+# DevPie
 
 ## Objective:
 Develop a tool to enhance developer efficiency and experience by integrating with major cloud platforms and Git version control systems. The tool will utilize a YAML file for configuration to automate the build and integration process, providing ease and consistency.
