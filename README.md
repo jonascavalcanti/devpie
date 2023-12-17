@@ -1,7 +1,6 @@
 # pipespray
 
-**Objective:**
-pipespray aims to streamline and enhance the developer experience by integrating seamlessly with major cloud platforms and Git version control systems. The tool utilizes a YAML configuration file, providing automation for the build and integration process and ensuring ease of use and consistency.
+Aims to streamline and enhance the developer experience by integrating seamlessly with major cloud platforms and Git version control systems. The tool utilizes a YAML configuration file, providing automation for the build and integration process and ensuring ease of use and consistency.
 
 **Key Features:**
 1. **Cloud Integration:** Support for AWS, Azure, and Google Cloud, with the ability to manage cloud resources.
