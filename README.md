@@ -1,12 +1,31 @@
 # DevPie
 
-Aims to streamline and enhance the developer experience by integrating seamlessly with major cloud platforms and Git version control systems. The tool utilizes a YAML configuration file, providing automation for the build and integration process and ensuring ease of use and consistency.
+![DevPie Icon](assets/devpie_icon.png)
 
-### Key Features:
-1. **Cloud Integration:** Support for AWS, Azure, and Google Cloud, with the ability to manage cloud resources.
-2. **Git Controllers:** Integration with GitLab, GitHub, and Bitbucket for automated CI/CD processes.
-3. **Configurability:** YAML file-based configuration for easy customization of environments, dependencies, and build scripts.
-4. **DORA Metrics:** Implementation of DevOps Research and Assessment metrics for evaluating development and delivery performance.
-5. **Automatic Build Pipeline:** Construction of development environments and execution of scripts based on YAML configurations.
-6. **Notifications and Monitoring:** Real-time alerts and performance monitoring throughout the development lifecycle.
+DevPie aims to revolutionize the developer experience by seamlessly integrating with major cloud platforms and Git version control systems. The tool's core functionality is driven by a [YAML](https://en.wikipedia.org/wiki/YAML) configuration file, enabling automation of the build and integration processes while ensuring simplicity and consistency.
 
+## Key Features
+
+### Cloud Integration
+
+Effortlessly manage cloud resources with support for AWS, Azure, and Google Cloud.
+
+### Git Controllers
+
+Integrate smoothly with GitLab, GitHub, and Bitbucket for automated CI/CD processes, enhancing version control and collaboration.
+
+### Configurability
+
+Utilize YAML file-based configuration for easy customization of environments, dependencies, and build scripts. Tailor your development workflow to suit your specific needs.
+
+### DORA Metrics
+
+Implement DevOps Research and Assessment metrics to evaluate and optimize development and delivery performance. Gain insights into key performance indicators for continuous improvement.
+
+### Automatic Build Pipeline
+
+Construct development environments and execute scripts automatically based on YAML configurations. Streamline your development workflow with efficient and consistent build pipelines.
+
+### Notifications and Monitoring
+
+Receive real-time alerts and performance monitoring throughout the entire development lifecycle. Stay informed about the status of your builds and deployments.
