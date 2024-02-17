@@ -1,0 +1,27 @@
+# EditorConfig helps developers define and maintain consistent coding styles
+# for their projects. For more information, visit http://editorconfig.org
+
+# Top-most EditorConfig file
+root = true
+
+[*]
+# Set the default charset
+charset = utf-8
+# Use 4 spaces for indentation
+indent_style = space
+indent_size = 4
+# Use LF (Unix) line endings
+end_of_line = lf
+# Trim trailing whitespaces
+trim_trailing_whitespace = true
+# Ensure a newline at the end of each file
+insert_final_newline = true
+
+[*.go]
+# Go-specific settings
+# Indent using tabs
+indent_style = tab
+# Tab width is 4 spaces
+tab_width = 4
+# Allow tabs for indentation in Go files
+use_tab = true
